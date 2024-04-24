@@ -1,0 +1,315 @@
+body { 
+  font-family: 'Times New Roman', serif;
+  margin: 0; 
+  padding: 0; 
+  background: url(img/amanecer.jpg); 
+}
+
+.header { 
+    background: #a38686;
+    color: #fff; 
+    padding: 5px 10px; 
+    text-align: center;
+    /*backdrop-filter: blur(100px);*/
+    box-shadow: 0 15px 20px rgba(83, 74, 74, 0.6);
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+}
+.nav { 
+    background: #615454;
+    padding: 10px 0;
+    /*backdrop-filter: blur(100px);*/
+    box-shadow: 0 15px 20px rgba(83, 74, 74, 0.6);
+    border-style: outset;
+    color:#fff;
+}
+.nav ul { 
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    justify-content: center; 
+}
+.nav ul li { 
+    margin: 0 15px;
+}
+.nav ul li a { 
+    color: #fff; 
+    text-decoration: none;
+    
+}
+.main { 
+    padding: 20px; 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+.section { 
+    margin-bottom: 20px; 
+    width: 100%; 
+}
+.news-article { 
+    background: #fff; 
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+    margin-bottom: 20px; 
+}
+.category { 
+    color: #333; 
+    font-weight: bold; 
+}
+.footer { 
+    background: #a38686;
+    color: #fff; 
+    text-align: center; 
+    padding: 20px; 
+    margin-top: auto;
+    /*backdrop-filter: blur(200px);*/
+    box-shadow: 0 15px 20px #07040499;
+    border-style: outset;
+    color:#fff;
+
+}
+.block1 {
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block2 {
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block3 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block4 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block5 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block6 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block7 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block8 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block9 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block10 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block11 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+.block12 { 
+    width: 100%; 
+    padding: 30px; 
+    margin-bottom: 20px; 
+    background: #ddd;
+    backdrop-filter: blur(20px);
+    margin: 0 28px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 20px rgba(0,0,0,0.6);
+    font-size: 20px;
+    border-style: outset;
+    color:#fff;
+    background: url(img/raptor1.jpg);
+}
+  @media (min-width: 768px) {
+    .block1 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block2 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block3 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block4 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block5 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block6 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block7 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block8 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block9 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block10 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block11 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+    .block12 { 
+        width: 49%; 
+        margin-right: 2%; 
+    }
+
+    .block:nth-child(2n) { 
+        margin-right: 0; 
+    }
+  }
+  @media (min-width: 1024px) {
+    .block { width: 24%; 
+        margin-right: 2%; 
+    }
+    .block:nth-child(4n) { 
+        margin-right: 0; 
+    }
+  }
